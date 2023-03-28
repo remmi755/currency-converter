@@ -6,6 +6,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&width=700&lines=Real+time+currency+exchange)](https://git.io/typing-svg)
 
 ![Image alt](https://github.com/remmi755/currency-converter/blob/master/Screenshot_3.jpg)
