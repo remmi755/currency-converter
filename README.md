@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ![Image alt](https://github.com/remmi755/currency-converter/blob/master/Screenshot_3.jpg)
 
 <h2>1.Working with the useEffect Hook</h2>
-<h2>2.Getting a list of exchange rates from individual APIs</h2>
+<h2>2.Getting a list of exchange rates from individual APIs(real-time)</h2>
 <h2>3.Converting one to another and vice versa (without backend currency)</h2>
 
 
